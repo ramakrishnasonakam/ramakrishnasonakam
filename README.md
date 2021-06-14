@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ramakrishnasonakam
 - 👀 I’m interested in Data Science (Machine Learning, Statistics, Programming)
-- 🌱 I’m currently learning from 'Data science from Scratch'
-- 💞️ I’m looking to collaborate on Data Science projects
+- 🌱 I’m currently learning 'Data science' and 'Software Engineering and Development'
+- 💞️ I’m looking to collaborate on Data Science and SWE projects
 - 📫 How to reach me: rsonakam@gmail.com
 
 <!---
