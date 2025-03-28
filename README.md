@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @ramakrishnasonakam
-- 👀 I’m interested in Data Science (Machine Learning, Statistics, Programming)
-- 🌱 I’m currently learning 'Data science' and 'Software Engineering and Development'
-- 💞️ I’m looking to collaborate on Data Science and SWE projects
-- 📫 How to reach me: rsonakam@gmail.com
+Hi, I’m @ramakrishnasonakam
 
-<!---
-ramakrishnasonakam/ramakrishnasonakam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me:
+I’m deep into Data Science—Machine Learning, Statistics, and Programming are my playgrounds. Currently, I'm honing my analytical skills and expanding my curiosity into the world of Product Management (PM), learning how to turn data into decisions that actually matter.
+
+What I Do:
+
+Dive into data to extract insights and find patterns hiding in plain sight
+
+Build models that predict, classify, and optimize—basically, making data do my bidding
+
+Getting to grips with Product Management responsibilities, from shaping product vision to execution
+
+Learning Goals:
+
+Mastering the art of data-driven decision-making through real-world projects
+
+Understanding how Product Managers use data to build products people love (and actually use)
+
+Let’s Collaborate:
+I’m all about working on data analysis and PM projects that turn theory into action. If you have a project that could use a dose of analytical firepower, let's connect!
+
+How to reach me:
+Email: rsonakam@gmail.com
