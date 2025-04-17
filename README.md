@@ -4,7 +4,7 @@ Hi, I’m @ramakrishnasonakam
 I’m a Data Science graduate student with prior experience in product compliance and analytics. My work bridges data and decision-making—focusing on scalable systems, strategic insights, and measurable impact.
 
 **What I Do:**
-Analyze complex datasets to provide actionable insights for business and policy decisions
+Analyze complex datasets and gather information to provide key actionable insights for business and policy decisions
 
 Develop SQL pipelines and data workflows that streamline decision-making and operational efficiency
 
