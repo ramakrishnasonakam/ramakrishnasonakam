@@ -1,13 +1,16 @@
 Hi, I’m @ramakrishnasonakam
 
 **About Me:**
-I’m currently pursuing a Master’s in Data Science, with a solid 3 years of experience as a Senior Product Compliance Associate. My focus is on Machine Learning, Statistics, and turning data into actionable insights. I’m also exploring Product Management to understand how data influences product strategy and decisions.
+I’m a Data Science graduate student with prior experience in product compliance and analytics. My work bridges data and decision-making—focusing on scalable systems, strategic insights, and measurable impact.
 
 **What I Do:**
+Analyze complex datasets to guide business and policy decisions
 
-Analyze data to uncover valuable insights
+Build classification models and SQL pipelines for real-world use cases
 
-Learn how data drives product decisions in the real world
+Explore product strategy through structured data analysis and experimentation
+
+Collaborate on projects that sit at the intersection of data, operations, and leadership
 
 **Let’s Collaborate:**
 If you have a project that needs data-driven insights or PM expertise, let’s connect!
