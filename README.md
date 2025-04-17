@@ -20,6 +20,10 @@ Collaborate on projects that sit at the intersection of data, operations, and le
 ![Pandas](https://img.shields.io/badge/Library-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Library-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
+**Visualisations and BI Tools:**
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Tool-MS%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 **Let’s Collaborate:**
 If you have a project that needs data-driven insights or PM expertise, let’s connect!
