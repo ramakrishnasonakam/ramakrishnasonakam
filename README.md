@@ -4,13 +4,13 @@ Hi, I’m @ramakrishnasonakam
 I’m a Data Science graduate student with prior experience in product compliance and analytics. My work bridges data and decision-making—focusing on scalable systems, strategic insights, and measurable impact.
 
 **What I Do:**
-Analyze complex datasets to guide business and policy decisions
+Analyze complex datasets to provide actionable insights for business and policy decisions
 
-Build classification models and SQL pipelines for real-world use cases
+Develop SQL pipelines and data workflows that streamline decision-making and operational efficiency
 
-Explore product strategy through structured data analysis and experimentation
+Explore and shape product strategy through data-driven experimentation and structured analysis
 
-Collaborate on projects that sit at the intersection of data, operations, and leadership
+Collaborate across teams to drive initiatives at the intersection of data, operations, and leadership
 
 **Technical Skills:**
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
