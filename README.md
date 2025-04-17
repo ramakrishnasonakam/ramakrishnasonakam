@@ -25,6 +25,17 @@ Collaborate on projects that sit at the intersection of data, operations, and le
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Tool-MS%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
+**Web & Analytics Tools**
+![Google Analytics](https://img.shields.io/badge/Tool-Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+
+**Big Data & Query Engines**
+![Hive](https://img.shields.io/badge/Tool-Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Tool-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+
+**Version Control & Workflow**
+![Git](https://img.shields.io/badge/Tool-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Tool-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
 **Let’s Collaborate:**
 If you have a project that needs data-driven insights or PM expertise, let’s connect!
 
